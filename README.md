@@ -30,6 +30,10 @@
 
 ---
 
+
+### FLOWCHART
+
+
 ## 📌 1. Informasi Program
 
 ### 🏷️ Nama Program
@@ -96,11 +100,8 @@ Program ini merupakan aplikasi berbasis *Command Line Interface* (CLI) yang diba
 | 2 | `data` | `List` | Menyimpan seluruh record transaksi pemesanan |
 | 3 | `mobil` | `List` | Menyimpan daftar armada mobil yang tersedia |
 | 4 | `book` | `Integer` | ID unik / kode booking otomatis (dimulai dari 101) |
-| 5 | `role` | `String` | Menyimpan hak akses pengguna saat ini (`admin` / `user`) |
-| 6 | `rute` | `String` | Menyimpan rute perjalanan yang dipilih |
-| 7 | `harga` | `Integer` | Tarif dasar per penumpang |
-| 8 | `total` | `Integer` | Total harga yang harus dibayar pemesan |
-| 9 | `jenis` | `String` | Nama armada mobil yang dipesan |
+| 5 | `harga` | `Integer` | Tarif dasar per penumpang |
+| 6 | `total` | `Integer` | Total harga yang harus dibayar pemesan |
 
 ---
 
