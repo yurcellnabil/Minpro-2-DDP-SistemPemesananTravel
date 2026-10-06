@@ -33,6 +33,10 @@
 
 ### FLOWCHART
 
+<img width="1131" height="882" alt="WhatsApp Image 2026-10-06 at 23 53 03" src="https://github.com/user-attachments/assets/579d9f1b-df40-496a-8a60-89eff24d1281" />
+
+
+
 
 ## 📌 1. Informasi Program
 
